@@ -2,12 +2,14 @@ a {
 	font-size: 25px;
 	font-weight: bold;
 }
-body {
-	margin: 0 auto;
+
+.container {
+  margin: 10px auto;
 	width: 600px;
 	border: 5px solid rgb(32, 73, 119);
 	padding: 0px 60px 0px 20px;
 }
+
 p {
 	width: 600px;
 }
